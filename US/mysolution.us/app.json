@@ -1,0 +1,39 @@
+{
+  "id": "72766fc8-6ab4-4988-a64d-0152542d9b31",
+  "name": "mysolution.us",
+  "publisher": "MicroDynamics",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+        {
+      "id": "e12b8110-8a91-46c3-8c64-ed8091cc8f9e",
+      "name": "mysolution.w1",
+      "publisher": "MicroDynamics",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "runtime": "17.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50500
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
